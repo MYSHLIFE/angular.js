@@ -1,5 +1,5 @@
 'use strict';
-
+//angular source code read
 var angularFiles = {
   'angularSrc': [
     'src/minErr.js',
